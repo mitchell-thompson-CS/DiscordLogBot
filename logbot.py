@@ -10,7 +10,7 @@ client = discord.Client()
 
 parent_path = "ServerLogs/" #parent path where all server logs will be put
 if not(os.path.isdir(parent_path)): #creates directory for the parent_path if not there
-            os.mkdir(parent_path)
+    os.mkdir(parent_path)
 
 
 @client.event
@@ -56,8 +56,10 @@ async def on_guild_update(before, after):
         newName = formatFileName(after) #new folder name of the server
         os.rename(path, parent_path + newName) #renames previous folder
         return
-    if(before.categories != after.categories): #left off yesterday
-        print("test")
+
+@client.event
+async def on_guild_category_update(before, after):
+    print("test")
 
 def formatFileName(channel): #returns "channel.name (channel.id)"
     return channel.name + " (" + str(channel.id) + ")"
