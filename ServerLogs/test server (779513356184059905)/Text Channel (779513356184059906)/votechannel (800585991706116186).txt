@@ -1,0 +1,106 @@
+Log Bot has connected to votechannel at 2021-01-23 18:19:37.681726!
+Log Bot has connected to votechannel at 2021-01-23 18:20:22.707950!
+Log Bot has connected to votechannel at 2021-01-23 18:24:37.661814!
+Log Bot has connected to votechannel at 2021-01-23 18:24:53.459504!
+Log Bot has connected to votechannel at 2021-01-23 18:25:05.782831!
+Log Bot has connected to votechannel at 2021-01-23 18:30:14.140031!
+Log Bot has connected to votechannel at 2021-01-23 18:36:33.463990!
+Log Bot has connected to votechannel at 2021-01-23 18:42:33.180151!
+Log Bot has connected to votechannel at 2021-01-23 18:45:09.636126!
+Log Bot has connected to votechannel at 2021-01-23 18:45:45.442069!
+Log Bot has connected to votechannel at 2021-01-23 18:48:58.277206!
+Log Bot has connected to votechannel at 2021-01-23 18:49:46.137700!
+Log Bot has connected to votechannel at 2021-01-23 18:50:11.971217!
+Log Bot has connected to votechannel at 2021-01-23 18:51:38.898074!
+Log Bot has connected to votechannel at 2021-01-23 19:00:54.085270!
+Log Bot has connected to votechannel at 2021-01-23 19:02:26.536341!
+Log Bot has connected to votechannel at 2021-01-23 20:22:55.676918!
+Log Bot has connected to votechannel at 2021-01-23 20:23:25.153487!
+Log Bot has connected to votechannel at 2021-01-23 20:23:48.410274!
+Log Bot has connected to votechannel at 2021-01-23 20:27:43.588223!
+Log Bot has connected to votechannel at 2021-01-23 20:28:24.678036!
+Log Bot has connected to votechannel at 2021-01-23 20:28:42.676077!
+Log Bot has connected to votechannel at 2021-01-23 20:29:48.711934!
+Log Bot has connected to votechannel at 2021-01-23 20:33:43.713924!
+Log Bot has connected to votechannel at 2021-01-23 20:46:59.125723!
+Log Bot has connected to votechannel at 2021-01-23 20:48:02.317924!
+Log Bot has connected to votechannel at 2021-01-23 20:51:09.935978!
+Toast Dog (125132014209728513) at 2021-01-23 20:51:20.856990: !logbot test
+Log Bot has connected to votechannel at 2021-01-23 20:51:33.168686!
+Toast Dog (125132014209728513) at 2021-01-23 20:51:35.832970: !logbot test
+Toast Dog (125132014209728513) at 2021-01-23 20:51:41.391262: !logbot <#781091354688094228>
+Toast Dog (125132014209728513) at 2021-01-23 20:51:46.244820: 802762528135970887
+Log Bot has connected to votechannel at 2021-01-23 20:52:40.565701!
+Toast Dog (125132014209728513) at 2021-01-23 20:52:43.576034: !logbot test
+Toast Dog (125132014209728513) at 2021-01-23 20:52:47.829381: !logbot test
+Toast Dog (125132014209728513) at 2021-01-23 20:52:54.007585: !logbot <#781091354688094228>
+Log Bot has connected to votechannel at 2021-01-23 21:03:40.281080!
+Toast Dog (125132014209728513) at 2021-01-23 21:03:46.820960: !logbot test
+Toast Dog (125132014209728513) at 2021-01-23 21:03:50.597459: !logbot blacklist
+Log Bot has connected to votechannel at 2021-01-23 21:04:09.643495!
+Toast Dog (125132014209728513) at 2021-01-23 21:04:11.972986: !logbot blacklist
+Toast Dog (125132014209728513) at 2021-01-23 21:04:22.544133: !logbot blacklist <@!779513494567387196>
+Toast Dog (125132014209728513) at 2021-01-23 21:04:29.907383: !logbot blacklist <#781091354688094228>
+Log Bot has connected to votechannel at 2021-01-23 21:05:28.398160!
+Toast Dog (125132014209728513) at 2021-01-23 21:05:35.537041: !logbot blacklist <@!779513494567387196>
+Log Bot has connected to votechannel at 2021-01-23 21:06:21.901207!
+Toast Dog (125132014209728513) at 2021-01-23 21:06:24.809675: !logbot blacklist <@!779513494567387196>
+Log Bot has connected to votechannel at 2021-01-23 21:06:39.936640!
+Toast Dog (125132014209728513) at 2021-01-23 21:06:46.730099: !logbot blacklist
+Toast Dog (125132014209728513) at 2021-01-23 21:07:03.656143: !logbot  blacklist <@!779513494567387196> <#781091354688094228> <@!781052252785868801> <#781087375283191809>
+Toast Dog (125132014209728513) at 2021-01-23 21:07:17.838651: !logbot blacklist <@&802697277902553139> <#781091354688094228> <@&781398294034120704> <#781087375283191809>
+Toast Dog (125132014209728513) at 2021-01-23 21:08:02.784337: !logbot blacklist <@!779513494567387196>
+Log Bot has connected to votechannel at 2021-01-23 21:08:27.157724!
+Toast Dog (125132014209728513) at 2021-01-23 21:08:28.080430: !logbot blacklist <@&802697277902553139>
+Toast Dog (125132014209728513) at 2021-01-23 21:08:42.046235: !logbot blacklist <@!781052252785868801>
+Toast Dog (125132014209728513) at 2021-01-23 21:08:50.248287: !logbot blacklist <@!779513494567387196>
+Log Bot has connected to votechannel at 2021-01-23 21:08:57.930113!
+Toast Dog (125132014209728513) at 2021-01-23 21:09:03.200922: !logbot blacklist <@!779513494567387196>
+Log Bot has connected to votechannel at 2021-01-23 21:09:09.136744!
+Toast Dog (125132014209728513) at 2021-01-23 21:09:25.411232: !logbot blacklist <@!779513494567387196> <@!781052252785868801> <#781091354688094228> <#781087375283191809>
+Log Bot has connected to votechannel at 2021-01-23 21:09:35.112014!
+Toast Dog (125132014209728513) at 2021-01-23 21:09:37.078360: !logbot blacklist <@&802697277902553139> <#781091354688094228> <@&781398294034120704> <#781087375283191809>
+Toast Dog (125132014209728513) at 2021-01-23 21:09:43.707188: !logbot blacklist <@&802697277902553139> <#781091354688094228> <@&781398294034120704> <#781087375283191809>
+Log Bot has connected to votechannel at 2021-01-23 21:10:18.253970!
+Toast Dog (125132014209728513) at 2021-01-23 21:10:19.383999: !logbot blacklist <@&802697277902553139> <#781091354688094228> <@&781398294034120704> <#781087375283191809>
+Toast Dog (125132014209728513) at 2021-01-23 21:10:21.683484: !logbot blacklist <@&802697277902553139> <#781091354688094228> <@&781398294034120704> <#781087375283191809>
+Toast Dog (125132014209728513) at 2021-01-23 21:10:37.590239: !logbot blacklist <@!779513494567387196>
+Log Bot has connected to votechannel at 2021-01-23 21:11:01.098786!
+Toast Dog (125132014209728513) at 2021-01-23 21:11:02.160313: !logbot blacklist <@&802697277902553139> <#781091354688094228> <@&781398294034120704> <#781087375283191809>
+Toast Dog (125132014209728513) at 2021-01-23 21:11:15.095919: !logbot blacklist <@!779513494567387196> <@!781052252785868801>
+Log Bot has connected to votechannel at 2021-01-23 21:13:17.003863!
+Toast Dog (125132014209728513) at 2021-01-23 21:13:21.550073: !logbot blacklist <@!779513494567387196>
+Toast Dog (125132014209728513) at 2021-01-23 21:13:30.045751: !logbot blacklist <@!779513494567387196> <#781091354688094228>
+Log Bot has connected to votechannel at 2021-01-23 21:14:19.951906!
+Toast Dog (125132014209728513) at 2021-01-23 21:14:29.023936: !logbot blacklist <@!779513494567387196> <#781091354688094228>
+Log Bot has connected to votechannel at 2021-01-23 21:14:56.178367!
+Toast Dog (125132014209728513) at 2021-01-23 21:14:59.428687: !logbot blacklist <@!779513494567387196> <#781091354688094228>
+Log Bot has connected to votechannel at 2021-01-23 21:20:03.641413!
+Log Bot has connected to votechannel at 2021-01-23 21:20:32.786215!
+Toast Dog (125132014209728513) at 2021-01-23 21:20:37.931766: !logbot blacklist <@!779513494567387196>
+Toast Dog (125132014209728513) at 2021-01-23 21:20:46.073982: !logbot blacklist <@!779513494567387196>
+Toast Dog (125132014209728513) at 2021-01-23 21:20:58.890476: !logbot blacklist <@!779513494567387196> <@!125132014209728513> <@!781052252785868801>
+Log Bot has connected to votechannel at 2021-01-23 21:23:33.060864!
+Toast Dog (125132014209728513) at 2021-01-23 21:23:40.228808: !logbot blacklist <@&802697277902553139> <@!125132014209728513> <@&781398294034120704>
+Toast Dog (125132014209728513) at 2021-01-23 21:24:00.421666: !logbot blacklist add
+Log Bot has connected to votechannel at 2021-01-23 21:35:19.405995!
+Toast Dog (125132014209728513) at 2021-01-23 21:35:33.603799: !logbot blacklist add
+Log Bot has connected to votechannel at 2021-01-23 21:35:52.045094!
+Toast Dog (125132014209728513) at 2021-01-23 21:35:57.199059: !logbot blacklist add
+Log Bot (779513494567387196) at 2021-01-23 21:35:57.326238: That is not a valid format to add in! Accepted formats: "!logbot blacklist add @person @person ..." and "!logbot blacklist add #channel #channel ..." and "!logbot blacklist add @role @role ..."
+Toast Dog (125132014209728513) at 2021-01-23 21:36:21.558126: !logbot blacklist add <@!779513494567387196>
+Log Bot has connected to votechannel at 2021-01-23 21:36:38.093329!
+Toast Dog (125132014209728513) at 2021-01-23 21:36:39.677627: !logbot blacklist add <@&802697277902553139>
+Toast Dog (125132014209728513) at 2021-01-23 21:36:44.548819: !logbot blacklist add <@&802697277902553139>
+Toast Dog (125132014209728513) at 2021-01-23 21:36:52.722932: !logbot blacklist add <@&781054128478093343>
+Log Bot has connected to votechannel at 2021-01-23 21:37:39.194343!
+Toast Dog (125132014209728513) at 2021-01-23 21:37:40.824141: !logbot blacklist add <@&802697277902553139>
+Toast Dog (125132014209728513) at 2021-01-23 21:38:47.459016: !logbot blacklist add
+Log Bot (779513494567387196) at 2021-01-23 21:38:47.663630: That is not a valid format to add in! Accepted formats: "!logbot blacklist add @person @person ..." and "!logbot blacklist add #channel #channel ..." and "!logbot blacklist add @role @role ..."
+Toast Dog (125132014209728513) at 2021-01-23 21:38:55.046185: !logbot blacklist add
+Log Bot (779513494567387196) at 2021-01-23 21:38:55.192081: That is not a valid format to add in! Accepted formats: "!logbot blacklist add @person @person ..." and "!logbot blacklist add #channel #channel ..." and "!logbot blacklist add @role @role ..."
+Toast Dog (125132014209728513) at 2021-01-23 21:39:01.731904: !logbot blacklist add <@&781054128478093343>
+Toast Dog (125132014209728513) at 2021-01-23 21:39:19.225561: !logbot blacklist add <@!781052252785868801>
+Toast Dog (125132014209728513) at 2021-01-23 21:39:38.160033: !logbot blacklist add <@!779513494567387196>
+Toast Dog (125132014209728513) at 2021-01-23 21:39:52.436722: !logbot blacklist add <@!779513494567387196>
+Log Bot has connected to votechannel at 2021-01-23 21:46:14.621884!

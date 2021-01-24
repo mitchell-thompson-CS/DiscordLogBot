@@ -1,0 +1,3 @@
+Log Bot has connected to test at 2021-01-23 18:45:26.129996!
+Log Bot has connected to test at 2021-01-23 18:45:45.443977!
+test has been DELETED.
